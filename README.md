@@ -1,10 +1,13 @@
 
 
 
-            SHOPPING LIST APP
+            SHOPPING LIST
 
 # Getting Started
-Run with a computer that uses (Linux,Mac OS or Windows 8+0) To get Access; Open terminal and clone the repo i.e git@github.com:Kiptoo16/wk1-Code-Challenge.git thereafter Open it on VS Code by running Code .
+Run with a computer that uses (Linux,Mac OS or Windows 8+0) 
+To get Access; Open your browser ; and deploy the link below;
+# https://kiptoo16.github.io/wk-2-code-challenge/
+ 
 
 # Code Challenge: Interactive Shopping List
 This challenge combines array iteration, DOM manipulation, and event handling to create an interactive shopping list application.
