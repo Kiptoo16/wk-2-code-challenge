@@ -2,6 +2,7 @@
 
 
             SHOPPING LIST
+Date : 7/72024            
 
 # Getting Started
 Run with a computer that uses (Linux,Mac OS or Windows 8+0) 
@@ -63,7 +64,7 @@ Students will practice iterating through an array to access and manipulate list 
 They will gain experience dynamically modifying the DOM based on user interaction.
 The challenge reinforces understanding of event listeners and their use in creating interactive applications.
  
-
+# Contact me https://github.com/Kiptoo16
 
 AUTHORED BY: Kevin Kiptoo
 @2024
