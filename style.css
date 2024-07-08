@@ -7,8 +7,11 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-}
+    background-image: url(https://media.istockphoto.com/id/1660821332/photo/online-grocery-shopping-app-on-smartphone.jpg?s=2048x2048&w=is&k=20&c=hOprEZAC2aG7P3zYXWeMrZThV4TD4xGVTuiEDVuXsuY=);
+    background-repeat: no-repeat;
+    
 
+}
 .container {
     background: #fff;
     padding: 20px;
@@ -16,6 +19,7 @@ body {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     width: 300px;
     text-align: center;
+    text-shadow: #d9534f;
 }
 
 h1 {
